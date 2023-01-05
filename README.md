@@ -26,7 +26,7 @@ print(result)
 ```
 
 ## Output:
-![output](/cs.jpg)
+![output](/https://www.linkpicture.com/q/cs_4.jpg)
 
 
 ## Result: 
