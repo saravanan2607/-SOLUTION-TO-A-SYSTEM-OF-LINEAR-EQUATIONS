@@ -1,5 +1,5 @@
-# -SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS
-## Aim:
+# -SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS  
+## Aim: 
 To write a python program to find a solution to a system of linear equations.
 ## Equipment’s required:
 1. 	Hardware – PCs
@@ -14,7 +14,7 @@ Using the np.linalg.solve(), we can find the solutions.
 ### Step 4: 
 End the program
 ## Program:
-```
+```  py
 #Program to find the solution for the given linear equations.
 #Developed by: C Saravanan
 #RegisterNumber: 22008175
@@ -26,7 +26,7 @@ print(result)
 ```
 
 ## Output:
-![output](/cs.jpg)
+![output](/solutions.jpg)
 
 
 ## Result: 
